@@ -224,10 +224,11 @@ class Contoh {
 ```
 
 ## CARA MEMBUAT VARIABEL
+
 Variabel adalah sebuah tempat untuk menyimpan nilai dalam program. Cara penulisan variabel di TypeScript mengikuti aturan-aturan berikut:
 
-- Variabel harus diawali dengan huruf, underscore (_), atau tanda dollar ($).
-- Variabel tidak boleh mengandung spasi atau karakter spesial, kecuali underscore (_) atau tanda dollar ($).
+- Variabel harus diawali dengan huruf, underscore (\_), atau tanda dollar ($).
+- Variabel tidak boleh mengandung spasi atau karakter spesial, kecuali underscore (\_) atau tanda dollar ($).
 - Variabel tidak boleh menggunakan kata kunci yang sudah ada di TypeScript, seperti `let`, `const`, `var`, `function`, `class`, `interface`, dll.
 - Variabel bersifat case-sensitive, artinya membedakan huruf besar dan kecil. Misalnya, `nama` dan `Nama` adalah dua variabel yang berbeda.
 - Variabel harus diberi nama yang jelas dan deskriptif, sesuai dengan nilai atau fungsi yang disimpan.
